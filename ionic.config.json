@@ -1,0 +1,7 @@
+{
+  "name": "phonefriendnew",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
